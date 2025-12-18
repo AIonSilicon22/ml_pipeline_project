@@ -1,0 +1,7 @@
+prefix=/home/prajay/Documents/Git Projects/Project_1/ml_pipeline_project/env
+includedir=${prefix}/include
+ 
+Name: XF86DRIProto
+Description: XF86DRI extension headers
+Version: 2.1.1
+Cflags: -I${includedir}/X11/dri

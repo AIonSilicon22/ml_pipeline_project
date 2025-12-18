@@ -1,0 +1,7 @@
+prefix=/home/prajay/Documents/Git Projects/Project_1/ml_pipeline_project/env
+includedir=${prefix}/include
+ 
+Name: DRI2Proto
+Description: DRI2 extension headers
+Version: 2.8
+Cflags: -I${includedir}

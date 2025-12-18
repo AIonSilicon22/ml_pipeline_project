@@ -1,0 +1,8 @@
+prefix=/home/prajay/Documents/Git Projects/Project_1/ml_pipeline_project/env
+includedir=${prefix}/include
+
+Name: FixesProto
+Description: X Fixes extension headers
+Version: 6.1
+Cflags: -I${includedir}
+Requires: xextproto >= 7.0.99.1

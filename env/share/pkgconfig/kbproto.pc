@@ -1,0 +1,7 @@
+prefix=/home/prajay/Documents/Git Projects/Project_1/ml_pipeline_project/env
+includedir=${prefix}/include
+ 
+Name: KBProto
+Description: KB extension headers
+Version: 1.0.7
+Cflags: -I${includedir}

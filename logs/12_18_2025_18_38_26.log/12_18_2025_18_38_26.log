@@ -1,0 +1,8 @@
+[2025-12-18 18:38:26,721] 97 werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[2025-12-18 18:38:26,721] 97 werkzeug - INFO - [33mPress CTRL+C to quit[0m
+[2025-12-18 18:38:26,722] 97 werkzeug - INFO -  * Restarting with stat
+[2025-12-18 18:38:26,861] 97 werkzeug - WARNING -  * Debugger is active!
+[2025-12-18 18:38:26,874] 97 werkzeug - INFO -  * Debugger PIN: 151-646-984
+[2025-12-18 18:38:45,492] 14 root - INFO - Error occurred in python script name [/home/prajay/Documents/Git Projects/Project_1/ml_pipeline_project/app.py] line number [11] error message [we are testing our custom file]
+[2025-12-18 18:38:45,494] 97 werkzeug - INFO - 127.0.0.1 - - [18/Dec/2025 18:38:45] "GET / HTTP/1.1" 200 -

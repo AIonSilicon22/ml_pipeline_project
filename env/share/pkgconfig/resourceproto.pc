@@ -1,0 +1,7 @@
+prefix=/home/prajay/Documents/Git Projects/Project_1/ml_pipeline_project/env
+includedir=${prefix}/include
+ 
+Name: ResourceProto
+Description: Resource extension headers
+Version: 1.2.0
+Cflags: -I${includedir}

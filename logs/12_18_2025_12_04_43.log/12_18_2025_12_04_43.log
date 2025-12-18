@@ -1,0 +1,5 @@
+[2025-12-18 12:04:43,028] 97 werkzeug - WARNING -  * Debugger is active!
+[2025-12-18 12:04:43,080] 97 werkzeug - INFO -  * Debugger PIN: 362-628-772
+[2025-12-18 12:08:18,242] 8 root - INFO - we are testing methods of logging
+[2025-12-18 12:08:18,243] 97 werkzeug - INFO - 127.0.0.1 - - [18/Dec/2025 12:08:18] "GET / HTTP/1.1" 200 -
+[2025-12-18 12:08:18,294] 97 werkzeug - INFO - 127.0.0.1 - - [18/Dec/2025 12:08:18] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -

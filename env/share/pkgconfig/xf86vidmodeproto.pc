@@ -1,0 +1,7 @@
+prefix=/home/prajay/Documents/Git Projects/Project_1/ml_pipeline_project/env
+includedir=${prefix}/include
+ 
+Name: XF86VidModeProto
+Description: XF86VidMode extension headers
+Version: 2.3.1
+Cflags: -I${includedir}
